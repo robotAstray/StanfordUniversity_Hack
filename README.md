@@ -21,10 +21,6 @@ The plugin itself is built for the popular Unity game engine in C#. In the Unity
 
 
 
-https://user-images.githubusercontent.com/62884362/154843902-efd70893-207a-45f0-81dc-91106da0cd74.mp4
-
-
-
 
 ## Next Steps
 

@@ -1,1 +1,1 @@
-# StanfordUniversity_TreeHacks
+# Mechanic-Ease

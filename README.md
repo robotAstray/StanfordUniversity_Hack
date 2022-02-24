@@ -1,6 +1,8 @@
 ## MechanicEase 
 
 
+This project was developed during TreeHacks 2022 by [@roaga](https://github.com/roaga), [@kychris](https://github.com/kychris), [@al1729](https://github.com/al1729), and [@robotAstray](https://github.com/robotAstray).
+
 ## Inspiration
 
 Though the gaming industry has grown rapidly in recent years, accessibility in games has not progressed as much as it could. One major reason for this is the heavy resource investment needed to create accessibility settings that serve every player without sacrificing the game's enjoyability. Smaller game studios have even more trouble with this issue.
